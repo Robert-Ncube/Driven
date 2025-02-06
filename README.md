@@ -48,3 +48,15 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Install The Following Necessary Enviromental Variables
+
+- `EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY` = _Value_
+
+- `DATABASE_URL` = _postgresql-db-url_
+
+- `EXPO_PUBLIC_SERVER_URL` = *https://driven.com/*
+
+- `EXPO_PUBLIC_GEOAPIFY_API_KEY` = _Value_
+
+- `EXPO_PUBLIC_GOOGLE_API_KEY` = _Value_

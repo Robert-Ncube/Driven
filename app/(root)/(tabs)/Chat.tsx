@@ -5,7 +5,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 const Chat = () => {
   return (
     <SafeAreaView className="flex-1 items-center justify-center bg-white">
-      <Text>Home</Text>
+      <Text>Chat</Text>
     </SafeAreaView>
   );
 };
